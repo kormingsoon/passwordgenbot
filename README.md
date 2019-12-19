@@ -8,13 +8,16 @@ The bot is built with python and hosted on AWS EC2. The project was inspired by 
 
 ### Features - More to come!
 ---
+<p align="center"> 
+  <img src="https://github.com/kormingsoon/passwordgenbot/blob/master/example.png" alt="Example" width="400" height="300"> 
+</p>
+
 * Generates password based on any given input
 * Generation with four different settings
    * Letters Only
    * Digits Only
    * Letters with Digits
-   * Letters, Digits and Special Characters
-![Example of Bot Usage](https://kormingsoon.github.com/images/example.png)
+   * Letters, Digits and Special Characters <br/>
 
 ### Future Ideas
 ---
