@@ -7,6 +7,7 @@ The bot is built with python and hosted on AWS EC2. The project was inspired by 
 * Future Ideas
 
 ### Features - More to come!
+---
 * Generates password based on any given input
 * Generation with four different settings
    * Letters Only
@@ -15,6 +16,7 @@ The bot is built with python and hosted on AWS EC2. The project was inspired by 
    * Letters, Digits and Special Characters
 
 ### Future Ideas
+---
 * Password Storage Prompt - allow users to key in existing passwords
 * Tagging of password with associated platform
 
