@@ -1,6 +1,6 @@
 # Python Telegram Bot - Password Generator
 First pet project on building a Telegram Bot
-The bot is built with python and hosted on AWS EC2. The project was inspired by my dislike toward my repetitive usage of the same password across different platforms. 
+The bot is built with python and hosted on AWS EC2. The project was inspired by my dislike toward my repetitive usage of the same password across different platforms. You can test the bot out at @kormingsoon_bot (changing bot soon)
 
 ## Password Generator
 * Features
@@ -14,6 +14,7 @@ The bot is built with python and hosted on AWS EC2. The project was inspired by 
    * Digits Only
    * Letters with Digits
    * Letters, Digits and Special Characters
+![Example of Bot Usage](https://kormingsoon.github.com/images/example.png)
 
 ### Future Ideas
 ---
